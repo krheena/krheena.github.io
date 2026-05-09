@@ -1,13 +1,11 @@
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Heena | Portfolio</title>
+    <title> Heena | Portfolio </title>
     <link rel="stylesheet" href="style.css">
 
-    <link rel="stylesheet" href="https://cloudflare.com">
+<link rel="stylesheet" href="https://cloudflare.com">
    
 </head>
 <body>
@@ -60,7 +58,6 @@
       <span class="score highlight">CGPA 7.15</span>
     </div>
   </div>
-
   <!-- Card 2 -->
   <div class="card-1">
     <div class="icon-box pink-bg">
@@ -73,7 +70,6 @@
       <span class="score highlight">73%</span>
     </div>
   </div>
-
   <!-- Card 3 -->
   <div class="card-1">
     <div class="icon-box pink-light-bg">
